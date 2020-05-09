@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tomorrow's Home Pages
 
 You can use the [editor on GitHub](https://github.com/zming00/tomorrow/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
